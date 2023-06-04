@@ -1,0 +1,191 @@
+.child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: linear-gradient(
+    110.6deg,
+    rgba(255, 214, 0, 0.6),
+    rgba(255, 138, 0, 0.6)
+  );
+  width: 1154px;
+  height: 680px;
+}
+.p {
+  margin: 0;
+}
+.div2 {
+  position: absolute;
+  top: 0;
+  left: 1px;
+  font-weight: 600;
+}
+.div3 {
+  top: 117px;
+  left: 0;
+  font-size: 18px;
+  font-weight: 200;
+  display: inline-block;
+  width: 442px;
+  height: 41px;
+}
+.b,
+.div3,
+.div4,
+.item {
+  position: absolute;
+}
+.item {
+  top: 0;
+  left: 0;
+  border-radius: 17px;
+  background: linear-gradient(180deg, #ff7a00, red);
+  width: 183px;
+  height: 53px;
+}
+.b,
+.div4 {
+  top: 18px;
+  left: 11px;
+}
+.div4 {
+  top: 184px;
+  left: 4px;
+  box-shadow: 0 4px 35px rgba(255, 56, 0, 0.87);
+  width: 183px;
+  height: 53px;
+  font-size: 15px;
+  color: var(--color-white);
+}
+.div1,
+.inner {
+  position: absolute;
+  top: 204px;
+  left: 98px;
+  width: 442px;
+  height: 237px;
+}
+.inner {
+  top: 0;
+  left: 0;
+  border-radius: 4px;
+  width: 59px;
+  height: 51px;
+}
+.happy-pet {
+  top: 15px;
+  left: 65px;
+}
+.div6,
+.div7,
+.happy-pet {
+  position: absolute;
+}
+.div6 {
+  top: 0;
+  left: 0;
+  width: 167px;
+  height: 51px;
+}
+.div7 {
+  top: 15px;
+  left: 292px;
+  font-weight: 600;
+}
+.div10,
+.div12,
+.div8,
+.div9 {
+  position: absolute;
+  top: 15px;
+  left: 391px;
+}
+.div10,
+.div12,
+.div9 {
+  left: 481px;
+}
+.div10,
+.div12 {
+  left: 592px;
+}
+.div12 {
+  top: 0;
+  left: 0;
+  font-weight: 500;
+}
+.div11,
+.div5,
+.vector-icon {
+  position: absolute;
+  top: 7px;
+  left: 92px;
+  width: 12.5px;
+  height: 7.5px;
+}
+.div11,
+.div5 {
+  top: 14px;
+  left: 850px;
+  width: 104.5px;
+  height: 21px;
+}
+.div5 {
+  top: 24px;
+  left: 98px;
+  width: 954.5px;
+  height: 51px;
+  font-size: var(--font-size-mid);
+}
+.free-icon-shopping-cart-777918 {
+  position: absolute;
+  top: 30px;
+  left: 908px;
+  width: 40px;
+  height: 39px;
+  object-fit: cover;
+}
+.ellipse-div {
+  position: absolute;
+  top: 69px;
+  left: 552px;
+  border-radius: 50%;
+  background-color: #f9e9d2;
+  filter: blur(250px);
+  width: 541px;
+  height: 720px;
+}
+.dogs-jack-russell-461862-1-icon {
+  position: absolute;
+  top: 75px;
+  left: 449px;
+  width: 738px;
+  height: 615px;
+  object-fit: cover;
+}
+.child1 {
+  position: absolute;
+  top: 60.5px;
+  left: 384px;
+  width: 84.5px;
+  height: 1px;
+}
+.free-icon-animal-paw-print-644 {
+  position: absolute;
+  top: 23px;
+  left: 103px;
+  width: 51.01px;
+  height: 51.01px;
+  object-fit: cover;
+}
+.div {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 680px;
+  overflow: hidden;
+  cursor: pointer;
+  text-align: left;
+  font-size: 40px;
+  color: var(--color-black);
+  font-family: var(--font-montserrat);
+}
